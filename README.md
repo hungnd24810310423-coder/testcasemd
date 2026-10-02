@@ -1,3 +1,7 @@
+-----------------BaiKiemTra01-----------------------------.
+Họ và tên: Nguyễn Đức Hùng
+Msv: 24810310423
+
 I. PHẦN LÝ THUYẾT & CÂU HỎI NGẮN
 Câu 1: Trình bày sự khác nhau giữa Value Types và Reference Types trong C# về cơ chế lưu trữ vùng nhớ (Stack vs Heap).
 
